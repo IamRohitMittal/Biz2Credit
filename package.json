@@ -1,0 +1,24 @@
+{
+  "name": "biz2credit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@angular/core": "^9.0.2",
+    "@angular/http": "^7.2.16",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "html-pdf": "^2.2.0",
+    "nodemon": "*",
+    "pdfjs-dist": "^2.2.228",
+    "pdfmake": "^0.1.64",
+    "phantom": "^6.3.0",
+    "rxjs": "^6.5.4"
+  },
+  "author": "Rohit",
+  "license": "ISC"
+}
