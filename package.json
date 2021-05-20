@@ -12,7 +12,7 @@
     "body-parser": "*",
     "cors": "*",
     "express": "*",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "nodemon": "*",
     "pdfjs-dist": "^2.2.228",
     "pdfmake": "^0.1.64",
