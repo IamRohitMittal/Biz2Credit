@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@angular/core": "^9.0.2",
+    "@angular/core": "^11.0.5",
     "@angular/http": "^7.2.16",
     "body-parser": "*",
     "cors": "*",
